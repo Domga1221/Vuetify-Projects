@@ -37,7 +37,7 @@
                 <v-avatar size="100">
                     <img src="/avatar-1.png" alt="">
                 </v-avatar>
-                <p class="white--text subheading mt-1">The Net Ninja</p>
+                <p class="white--text subheading mt-1">Domga</p>
             </v-col>
         </v-row>
 
