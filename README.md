@@ -11,8 +11,6 @@
 
 <img src="https://user-images.githubusercontent.com/81465646/127073122-4564f32f-bef1-4c7a-a5e6-f2b54b336632.PNG">
 
-
-
 ## Project setup
 ```
 npm install
