@@ -2,6 +2,8 @@
 
 <p>Small Project i created in my free time in order to learn the styling-framework vuetify</p>
 
+<p>Deployed at Firebase: https://learnvuetify-41dc3.web.app/ </p>
+
 <h2>Uses:</h2>
 <ul>
   <li>Vue</li>
